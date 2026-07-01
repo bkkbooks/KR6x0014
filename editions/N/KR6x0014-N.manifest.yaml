@@ -1,0 +1,586 @@
+canonical_identifier: bkk:krp/KR6x0014/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0014/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 餓鬼事經
+  identifiers:
+    krp: KR6x0014
+    cbeta: N28n0014
+    cbeta_old_id: N28n0014
+    authorityid: CA0008278
+    json_key: N0014
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N28/N28n0014.xml
+    old_id: N28n0014
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0014_001-N.yaml, hash: 'sha256:f3624f6819ffe8f439f24c084585291450164ce443a0bd7073bf870914148abb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0014_001-N.markers.yaml, hash: 'sha256:3fe50b7983591c7be3043f104a86a1a08e8c74595c85795f5df836ddf13fa101'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 17850
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一　蛇品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 一　福田鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-3
+    span:
+    - body
+    - 89
+    - 89
+  label: 二　豚鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-4
+    span:
+    - body
+    - 166
+    - 166
+  label: 三　臭口鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-5
+    span:
+    - body
+    - 277
+    - 277
+  label: 四　人形鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-6
+    span:
+    - body
+    - 379
+    - 379
+  label: 五　戶外鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-7
+    span:
+    - body
+    - 696
+    - 696
+  label: 六　食兒鬼事（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-8
+    span:
+    - body
+    - 916
+    - 916
+  label: 七　食兒鬼事（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-9
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 八　牛鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-10
+    span:
+    - body
+    - 1353
+    - 1353
+  label: 九　織女鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-11
+    span:
+    - body
+    - 1484
+    - 1484
+  label: 一〇　禿頭鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-12
+    span:
+    - body
+    - 1818
+    - 1818
+  label: 一一　象鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-13
+    span:
+    - body
+    - 2164
+    - 2164
+  label: 一二　蛇鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-14
+    span:
+    - body
+    - 2413
+    - 2413
+  label: 第二　鬱婆利品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-15
+    span:
+    - body
+    - 2419
+    - 2419
+  label: 一　離輪迴鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-16
+    span:
+    - body
+    - 2930
+    - 2930
+  label: 二　舍利弗母鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-17
+    span:
+    - body
+    - 3261
+    - 3261
+  label: 三　魔陀鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-18
+    span:
+    - body
+    - 4085
+    - 4085
+  label: 四　難陀鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-19
+    span:
+    - body
+    - 4541
+    - 4541
+  label: 五　耳環女鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-20
+    span:
+    - body
+    - 4562
+    - 4562
+  label: 六　餓鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-21
+    span:
+    - body
+    - 5020
+    - 5020
+  label: 七　財護鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-22
+    span:
+    - body
+    - 5519
+    - 5519
+  label: 八　權商鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-23
+    span:
+    - body
+    - 5875
+    - 5875
+  label: 九　央崛羅鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-24
+    span:
+    - body
+    - 7751
+    - 7751
+  label: 一〇　鬱多羅母鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-25
+    span:
+    - body
+    - 7966
+    - 7966
+  label: 一一　線餓鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-26
+    span:
+    - body
+    - 8169
+    - 8169
+  label: 一二　無耳犬鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-27
+    span:
+    - body
+    - 8647
+    - 8647
+  label: 一三　鬱婆利鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-28
+    span:
+    - body
+    - 9111
+    - 9111
+  label: 第三　小品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-29
+    span:
+    - body
+    - 9115
+    - 9115
+  label: 一　不斷鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-30
+    span:
+    - body
+    - 9627
+    - 9627
+  label: 二　薩努瓦西鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-31
+    span:
+    - body
+    - 10375
+    - 10375
+  label: 三　造車鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-32
+    span:
+    - body
+    - 10580
+    - 10580
+  label: 四　籾殼鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-33
+    span:
+    - body
+    - 10725
+    - 10725
+  label: 五　小兒鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-34
+    span:
+    - body
+    - 11072
+    - 11072
+  label: 六　塞利尼鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-35
+    span:
+    - body
+    - 11419
+    - 11419
+  label: 七　獵鹿鬼事（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-36
+    span:
+    - body
+    - 11660
+    - 11660
+  label: 八　獵鹿鬼事（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-37
+    span:
+    - body
+    - 11780
+    - 11780
+  label: 九　詐欺鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-38
+    span:
+    - body
+    - 11971
+    - 11971
+  label: 一〇　不敬塔鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-39
+    span:
+    - body
+    - 12202
+    - 12202
+  label: 第四　大品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-40
+    span:
+    - body
+    - 12206
+    - 12206
+  label: 一　安拔薩卡拉鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-41
+    span:
+    - body
+    - 14649
+    - 14649
+  label: 二　塞里薩伽鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-42
+    span:
+    - body
+    - 14666
+    - 14666
+  label: 三　難提迦鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-43
+    span:
+    - body
+    - 16020
+    - 16020
+  label: 四　雷瓦提鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-44
+    span:
+    - body
+    - 16033
+    - 16033
+  label: 五　甘蔗鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-45
+    span:
+    - body
+    - 16262
+    - 16262
+  label: 六　兒童鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-46
+    span:
+    - body
+    - 16419
+    - 16419
+  label: 七　王兒鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-47
+    span:
+    - body
+    - 16704
+    - 16704
+  label: 八　糞食鬼事（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-48
+    span:
+    - body
+    - 16883
+    - 16883
+  label: 九　糞食鬼事（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-49
+    span:
+    - body
+    - 17062
+    - 17062
+  label: 一〇　群集鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-50
+    span:
+    - body
+    - 17302
+    - 17302
+  label: 一一　華子鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-51
+    span:
+    - body
+    - 17380
+    - 17380
+  label: 一二　菴羅鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-52
+    span:
+    - body
+    - 17516
+    - 17516
+  label: 一三　木軸鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-53
+    span:
+    - body
+    - 17572
+    - 17572
+  label: 一四　蓄財鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-54
+    span:
+    - body
+    - 17599
+    - 17599
+  label: 一五　商子鬼事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0014_N_001-mulu-55
+    span:
+    - body
+    - 17684
+    - 17684
+  label: 一六　六萬槌鬼事
+  type: mulu
+  level: 1
+hash: sha256:b86ea240f1e1aa03e900efef6ce5df8929c018d05a03e49b46b4ebeab1c89ae4
