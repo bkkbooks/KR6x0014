@@ -18,9 +18,9 @@ editions:
 - short: 'N'
 assets:
   parts:
-  - {seq: 1, filename: KR6x0014_001.yaml, hash: 'sha256:857bc554860b5cb5879faa4bde6d3294f1a6ba6bb2453da27e0d632532363cb3'}
+  - {seq: 1, filename: KR6x0014_001.yaml, hash: 'sha256:f3624f6819ffe8f439f24c084585291450164ce443a0bd7073bf870914148abb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6x0014_001.markers.yaml, hash: 'sha256:06a3889930d79de6a67444df8aeb515f385d86cdb27d080fdbbe2a6865195121'}
+  - {seq: 1, role: markers, filename: assets/KR6x0014_001.markers.yaml, hash: 'sha256:aa24c8491895f707a691cc140ea730d1919ca9a4eb760beea10b020b0b62f673'}
 table_of_contents:
 - ref:
     seq: 1
@@ -582,7 +582,4 @@ table_of_contents:
   label: 一六　六萬槌鬼事
   type: mulu
   level: 1
-hash: sha256:5a2dd6755afab0967a31ecddbbb51b960e5068b4500b6723d7b5b697bd46305d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:68cec0674279a00f269e68a4115aac6ecd14be33d8a2351e41a81e65544c1c3e
